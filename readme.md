@@ -75,6 +75,8 @@ cd miniQuizApp`
 `npm install`
 
 ### 3. Run the project
+Open the project on any Intelli J Idea and run the `index.html` file or alternatively,
+
 Since this is a frontend app, you can simply open:
 index.html
 OR use a local server (recommended):
